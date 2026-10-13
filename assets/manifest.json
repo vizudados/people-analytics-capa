@@ -1,14 +1,14 @@
 {
  "projeto": "people-analytics-capa",
- "gerado_em": "2026-10-13T18:52:07",
+ "gerado_em": "2026-10-13T19:04:27",
  "base_url": "https://vizudados.github.io/people-analytics-capa/",
  "arquivos": [
   {
-   "file": "assets/capa-filme-1080x1080-30fps-a4e4eaa0a0e7.mp4",
-   "bytes": 8942180,
-   "sha256": "a4e4eaa0a0e7904e3c1649eb3899bb79b2343ebc0ddc95dacba2b278ffb7e943",
+   "file": "assets/capa-filme-1080x1080-30fps-31dcc63fa2fa.mp4",
+   "bytes": 8617576,
+   "sha256": "31dcc63fa2fa831076c8b09d1b5b8a1c97ef09f806263b07a0397c88cdab4d44",
    "content_type": "video/mp4",
-   "origem": "filme da capa em laço de 34,9 s: 8 cenas em 3D de animação (quadros gerados por IA no Codex e animados no Seedance 2.5 via Firefly e Magnific), montadas com fusões de 0,3 s e laço sem emenda; velocidades de 1x a 1,5x; 1080x1080, 30 fps, H.264 (x264 slow, CRF 22), yuv420p, mudo, faststart. Personagens e empresa fictícios; os números do painel entram por cima, no HTML, e não estão no vídeo."
+   "origem": "filme da capa em laço de 34,2 s: 8 cenas em 3D de animação (quadros gerados por IA no Codex e animados no Seedance 2.5 via Firefly e Magnific), montadas com fusões de 0,3 s e laço sem emenda; velocidades de 1x a 1,5x; 1080x1080, 30 fps, H.264 (x264 slow, CRF 22), yuv420p, mudo, faststart. Personagens e empresa fictícios; os números do painel entram por cima, no HTML, e não estão no vídeo."
   },
   {
    "file": "assets/capa-filme-poster-229319773672.webp",

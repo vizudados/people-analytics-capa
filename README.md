@@ -4,7 +4,7 @@ Ativos públicos da capa de um painel Power BI de People Analytics (visual HTML 
 as mídias da capa**. Não há dado nem número nos arquivos; a empresa (Aurora Serviços Integrados) e as pessoas são
 fictícias. Os indicadores do painel são desenhados pelo próprio relatório, por cima do filme.
 
-- `assets/capa-filme-1080x1080-30fps-*.mp4`: filme em laço de 34,9 s, com 8 cenas em 3D de animação (a chegada de um
+- `assets/capa-filme-1080x1080-30fps-*.mp4`: filme em laço de 34,2 s, com 8 cenas em 3D de animação (a chegada de um
   novo colaborador e o dia a dia da empresa); 1080×1080, 30 fps, H.264, mudo.
 - `assets/capa-filme-poster-*.webp`: pôster do filme (o primeiro quadro).
 - `assets/manifest.json`: tamanho, SHA-256 e origem de cada arquivo.
