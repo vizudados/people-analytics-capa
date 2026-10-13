@@ -1,0 +1,21 @@
+{
+ "projeto": "people-analytics-capa",
+ "gerado_em": "2026-10-13T18:52:07",
+ "base_url": "https://vizudados.github.io/people-analytics-capa/",
+ "arquivos": [
+  {
+   "file": "assets/capa-filme-1080x1080-30fps-a4e4eaa0a0e7.mp4",
+   "bytes": 8942180,
+   "sha256": "a4e4eaa0a0e7904e3c1649eb3899bb79b2343ebc0ddc95dacba2b278ffb7e943",
+   "content_type": "video/mp4",
+   "origem": "filme da capa em laço de 34,9 s: 8 cenas em 3D de animação (quadros gerados por IA no Codex e animados no Seedance 2.5 via Firefly e Magnific), montadas com fusões de 0,3 s e laço sem emenda; velocidades de 1x a 1,5x; 1080x1080, 30 fps, H.264 (x264 slow, CRF 22), yuv420p, mudo, faststart. Personagens e empresa fictícios; os números do painel entram por cima, no HTML, e não estão no vídeo."
+  },
+  {
+   "file": "assets/capa-filme-poster-229319773672.webp",
+   "bytes": 82644,
+   "sha256": "229319773672742c7ab47bb9b7dd4cded2415ec26199723f3fa84a3991f77294",
+   "content_type": "image/webp",
+   "origem": "pôster do filme: o primeiro quadro (a Lia montando o kit de boas-vindas), 1080x1080, WebP"
+  }
+ ]
+}
