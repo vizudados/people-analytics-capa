@@ -1,21 +1,21 @@
 {
  "projeto": "people-analytics-capa",
- "gerado_em": "2026-10-13T19:04:27",
+ "gerado_em": "2026-10-13T21:35:26",
  "base_url": "https://vizudados.github.io/people-analytics-capa/",
  "arquivos": [
   {
-   "file": "assets/capa-filme-1080x1080-30fps-31dcc63fa2fa.mp4",
-   "bytes": 8617576,
-   "sha256": "31dcc63fa2fa831076c8b09d1b5b8a1c97ef09f806263b07a0397c88cdab4d44",
+   "file": "assets/capa-filme-1080x1080-30fps-d42baaba9891.mp4",
+   "bytes": 7880505,
+   "sha256": "d42baaba9891bf5b8c43c5c4eebdaf0c5bf0d29af7d03ec603c09f7990a8762b",
    "content_type": "video/mp4",
-   "origem": "filme da capa em laço de 34,2 s: 8 cenas em 3D de animação (quadros gerados por IA no Codex e animados no Seedance 2.5 via Firefly e Magnific), montadas com fusões de 0,3 s e laço sem emenda; velocidades de 1x a 1,5x; 1080x1080, 30 fps, H.264 (x264 slow, CRF 22), yuv420p, mudo, faststart. Personagens e empresa fictícios; os números do painel entram por cima, no HTML, e não estão no vídeo."
+   "origem": "filme da capa em laço de 32,6 s: 8 cenas em 3D de animação (quadros gerados por IA no Codex e animados no Seedance 2.5 via Firefly e Magnific), montadas com fusões de 0,3 s e laço sem emenda; velocidades de 1x a 1,5x; 1080x1080, 30 fps, H.264 (x264 slow, CRF 22), yuv420p, mudo, faststart. Personagens e empresa fictícios; os números do painel entram por cima, no HTML, e não estão no vídeo."
   },
   {
-   "file": "assets/capa-filme-poster-229319773672.webp",
-   "bytes": 82644,
-   "sha256": "229319773672742c7ab47bb9b7dd4cded2415ec26199723f3fa84a3991f77294",
+   "file": "assets/capa-filme-poster-3454e70d9756.webp",
+   "bytes": 75608,
+   "sha256": "3454e70d9756e4173ac2f4a99516a08bdf3f9fffb2bee1cd7b37a091d8379ffe",
    "content_type": "image/webp",
-   "origem": "pôster do filme: o primeiro quadro (a Lia montando o kit de boas-vindas), 1080x1080, WebP"
+   "origem": "pôster do filme: o primeiro quadro (a Lia fechando o kit de boas-vindas), 1080x1080, WebP"
   }
  ]
 }
